@@ -1,4 +1,3 @@
-import React from "react";
 import { IoPlay } from "react-icons/io5";
 import { motion } from "framer-motion";
 
