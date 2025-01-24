@@ -1,4 +1,3 @@
-import React from "react";
 import { SiGoogleassistant, SiDatabricks } from "react-icons/si";
 import { motion } from "framer-motion";
 

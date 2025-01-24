@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+
 function Pricing() {
   const imageVariant = {
     hidden: {
@@ -14,6 +15,7 @@ function Pricing() {
       },
     },
   };
+
   return (
     <div className="py-20 w-4/5 m-auto flex flex-col md:flex-row justify-between items-center space-y-10 md:space-y-0">
       <div className="md:w-1/2 space-y-8">
